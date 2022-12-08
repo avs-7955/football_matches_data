@@ -1,5 +1,7 @@
 # Football Matches Data Extraction
 
+This program scrapes data of all the previous matches played by the teams in UK from the website - https://www.adamchoi.co.uk/teamgoals/detailed and stores them in the Excel file.
+
 <h1 align="center">
   <img src="https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/stack_GjMfbKvDP.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1655143763495" width="55" alt="stacklogo-python" />
  <br>
